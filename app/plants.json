@@ -1,0 +1,69 @@
+{
+  "Plants": {
+    "1": {
+      "id": "1",
+      "commonName": "Monstera Deliciosa",
+      "latinName": "Monstera deliciosa",
+      "description": "Popular tropical plant with large split leaves",
+      "type": "Indoor",
+      "wateringFrequency": 7,
+      "fertilizingFrequency": 30,
+      "sprayingFrequency": 3,
+      "image": "",
+      "isVerified": true,
+      "advicesList": null
+    },
+    "2": {
+      "id": "2",
+      "commonName": "Snake Plant",
+      "latinName": "Sansevieria trifasciata",
+      "description": "Low maintenance plant with upright sword-like leaves",
+      "type": "Indoor",
+      "wateringFrequency": 14,
+      "fertilizingFrequency": 60,
+      "sprayingFrequency": 0,
+      "image": "",
+      "isVerified": true,
+      "advicesList": null
+    },
+    "3": {
+      "id": "3",
+      "commonName": "Pothos",
+      "latinName": "Epipremnum aureum",
+      "description": "Easy-care trailing vine with heart-shaped leaves",
+      "type": "Indoor",
+      "wateringFrequency": 7,
+      "fertilizingFrequency": 30,
+      "sprayingFrequency": 2,
+      "image": "",
+      "isVerified": true,
+      "advicesList": null
+    },
+    "4": {
+      "id": "4",
+      "commonName": "Peace Lily",
+      "latinName": "Spathiphyllum",
+      "description": "Beautiful flowering plant that purifies air",
+      "type": "Indoor",
+      "wateringFrequency": 5,
+      "fertilizingFrequency": 45,
+      "sprayingFrequency": 3,
+      "image": "",
+      "isVerified": true,
+      "advicesList": null
+    },
+    "5": {
+      "id": "5",
+      "commonName": "Rubber Plant",
+      "latinName": "Ficus elastica",
+      "description": "Hardy plant with large glossy leaves",
+      "type": "Indoor",
+      "wateringFrequency": 7,
+      "fertilizingFrequency": 30,
+      "sprayingFrequency": 4,
+      "image": "",
+      "isVerified": true,
+      "advicesList": null
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "851148550073",
+    "firebase_url": "https://plantcareapp-c5068-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "plantcareapp-c5068",
+    "storage_bucket": "plantcareapp-c5068.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851148550073:android:5a148165a75cdc163e1068",
+        "android_client_info": {
+          "package_name": "com.grzeluu.lookupplant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAccFmBiP__afhN8Na3RIcpmxpjZxFXgVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

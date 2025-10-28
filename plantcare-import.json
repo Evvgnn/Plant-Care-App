@@ -1,0 +1,103 @@
+{
+  "Plants": {
+    "1": {
+      "commonName": "Monstera Deliciosa",
+      "description": "Popular tropical plant with large split leaves",
+      "fertilizingFrequency": 30,
+      "id": "1",
+      "image": "https://ecrbhjdrxmdaglssqhfo.supabase.co/storage/v1/object/public/plant-images/Monstera%20Deliciosa.jpg",
+      "isVerified": true,
+      "latinName": "Monstera deliciosa",
+      "sprayingFrequency": 3,
+      "type": "Indoor",
+      "wateringFrequency": 7,
+      "advicesList": {
+        "1": {
+          "id": "1",
+          "question": "Why are the leaves turning yellow?",
+          "answer": "Yellow leaves usually indicate overwatering. Check if the soil is too wet and allow it to dry between waterings.",
+          "authorId": "system",
+          "timestamp": 1696176000000,
+          "isVerified": true
+        },
+        "2": {
+          "id": "2",
+          "question": "How to propagate Monstera?",
+          "answer": "Cut a stem just below a node (aerial root) and place in water. Change water weekly until roots develop, then plant in soil.",
+          "authorId": "system",
+          "timestamp": 1696176100000,
+          "isVerified": true
+        }
+      }
+    },
+    "2": {
+      "commonName": "Snake Plant",
+      "description": "Low maintenance plant with upright sword-like leaves",
+      "fertilizingFrequency": 60,
+      "id": "2",
+      "image": "https://ecrbhjdrxmdaglssqhfo.supabase.co/storage/v1/object/public/plant-images/Sansevieria%20trifasciata.jpg",
+      "isVerified": true,
+      "latinName": "Sansevieria trifasciata",
+      "sprayingFrequency": 0,
+      "type": "Indoor",
+      "wateringFrequency": 14
+    },
+    "3": {
+      "commonName": "Pothos",
+      "description": "Easy-care trailing vine with heart-shaped leaves",
+      "fertilizingFrequency": 30,
+      "id": "3",
+      "image": "https://ecrbhjdrxmdaglssqhfo.supabase.co/storage/v1/object/public/plant-images/Epipremnum%20aureum.jpg",
+      "isVerified": true,
+      "latinName": "Epipremnum aureum",
+      "sprayingFrequency": 2,
+      "type": "Indoor",
+      "wateringFrequency": 7
+    },
+    "4": {
+      "commonName": "Peace Lily",
+      "description": "Beautiful flowering plant that purifies air",
+      "fertilizingFrequency": 45,
+      "id": "4",
+      "image": "https://ecrbhjdrxmdaglssqhfo.supabase.co/storage/v1/object/public/plant-images/Spathiphyllum.jpg",
+      "isVerified": true,
+      "latinName": "Spathiphyllum",
+      "sprayingFrequency": 3,
+      "type": "Indoor",
+      "wateringFrequency": 5
+    },
+    "5": {
+      "commonName": "Rubber Plant",
+      "description": "Hardy plant with large glossy leaves",
+      "fertilizingFrequency": 30,
+      "id": "5",
+      "image": "https://ecrbhjdrxmdaglssqhfo.supabase.co/storage/v1/object/public/plant-images/Ficus%20elastica.jpg",
+      "isVerified": true,
+      "latinName": "Ficus elastica",
+      "sprayingFrequency": 4,
+      "type": "Indoor",
+      "wateringFrequency": 7
+    }
+  },
+  "Users": {
+    "ntNoDSP1gQZAxirHjJb1TrMzdFd2": {
+      "UserPlants": {
+        "1759345386382": {
+          "careNeeded": false,
+          "daysToClosestAction": 10,
+          "fertilizingFrequency": 30,
+          "id": "1759345386382",
+          "lastFertilizing": "2025-10-01T",
+          "lastSpraying": "2025-10-01T",
+          "lastWatering": "2025-10-01T",
+          "name": "fern",
+          "sprayingFrequency": 0,
+          "wateringFrequency": 10
+        }
+      },
+      "email": "annietiin6@gmail.com",
+      "uid": "ntNoDSP1gQZAxirHjJb1TrMzdFd2",
+      "username": "annietiin6"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Plant Care</string>
+    <string name="login">Войти</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="register">Регистрация</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="some_error">Что-то пошло не так</string>
+    <string name="e_mail">E-mail</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="open_navigation_drawer">Open Navigation Drawer</string>
+    <string name="close_navigation_drawer">Close Navigation Drawer</string>
+
+    <string name="my_plants">Мои растения</string>
+    <string name="discover_plants">Поиск</string>
+    <string name="suggest_new_plant">Предложить растение</string>
+
+    <string name="logout">Выйти</string>
+    <string name="settings">Настройки</string>
+    <string name="search">Поиск</string>
+    <string name="common_name">Название</string>
+    <string name="choose_plant_photo">Сделайте или выберите фото растения</string>
+    <string name="latin_name">Латинское название (необязательно)</string>
+    <string name="add_to_my_plants">Добавить в Мои растения</string>
+    <string name="description">Описание</string>
+    <string name="name">Название</string>
+    <string name="type">Тип</string>
+    <string name="message_need_permission">Необходимо разрешение</string>
+    <string name="message_grant_permission">Grant permission</string>
+    <string name="label_setting">Настройки</string>
+
+    <string name="never">Никогда</string>
+    <string name="one_day">1 день</string>
+    <string name="days">%1$d дней</string>
+    <string name="months">%1$d месяцев</string>
+
+    <string name="fertilizing">Удобрение</string>
+    <string name="no_plants_added">
+        Ни одно растение не добавлено.\n
+        Чтобы добавить растение, перейдите в Добавить растение </string>
+    <string name="adding_new_plant">Новое растение</string>
+    <string name="reset_password">Сбросить пароль</string>
+    <string name="add_to_your_plants">Добавить к вашим растениям</string>
+    <string name="spraying">Опрыскивание</string>
+    <string name="watering">Полив</string>
+    <string name="spraying_frequency">Частота опрыскивания</string>
+    <string name="watering_frequency">Частота полива</string>
+    <string name="fertilizing_frequency">Частота удобрения</string>
+    <string name="ask_a_question">Задать вопрос</string>
+    <string name="none">---</string>
+    <string name="ask_question">Задать вопрос</string>
+    <string name="question">Ваш вопрос</string>
+    <string name="add_your_solution_here">Добавить ваше решение</string>
+    <string name="name_your_plant">Название растения</string>
+    <string name="customize_frequency">Настроить частоту</string>
+    <string name="choose_a_name_and_a_photo">Выберите название и фото</string>
+
+    <string name="advices">Советы</string>
+
+    <string name="set_plant_requirements">Установить требования к растению</string>
+    <string name="advice">Совет</string>
+
+    <string name="add">Добавить</string>
+    <string name="submit">Отправить</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="requirements">Требования</string>
+    <string name="general_information">Общая информация</string>
+
+    <string name="add_plant">Добавить растение</string>
+    <string name="discover">Найти</string>
+    <string name="delete_plant">Удалить растение</string>
+    <string name="delete_plant_question">Вы уверены, что хотите удалить это растение?</string>
+
+    <string name="notification_channel_name">Напоминания о растениях</string>
+    <string name="notification_channel_description">Напоминания для ухода за растениями</string>
+    <string name="plant_notification_title">Растению нужен уход</string>
+    <string name="plant_notification_message">%1$s, вероятно, нуждается во вниманиии</string>
+    <string name="db_plant_added">Растение добавлено</string>
+    <string name="this_field_cant_be_empty">Это поле не может быть пустым</string>
+    <string name="email_sent">Письмо отправлено</string>
+    <string name="email_not_valid">Неверный email</string>
+    <string name="logged_successfully">Вы успешно вошли в аккаунт</string>
+    <string name="plant_delete_success">Растение успешно удалено</string>
+    <string name="register_success">Пользователь успешно зарегистрирован</string>
+    <string name="permissions_denied">Доступ отклонён</string>
+    <string name="choose_photo">Выберите фото растения</string>
+
+    <string-array name="categories">
+        <item>@string/leaf_plants</item>
+        <item>@string/flowers</item>
+        <item>@string/succulents</item>
+    </string-array>
+
+    <string name="leaf_plants">Листовые растения</string>
+    <string name="flowers">Цветы</string>
+    <string name="succulents">Суккуленты</string>
+
+    <string-array name="photo_options">
+        <item>@string/take_photo</item>
+        <item>@string/gallery</item>
+        <item>@string/cancel</item>
+    </string-array>
+
+    <string name="take_photo">Сделать фото</string>
+    <string name="gallery">Выбрать из галереи</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="password_too_short">Пароль слишком короткий! Нужно хотя бы 6 символов</string>
+    <string name="passwords_didnt_match">Пароли не совпадают</string>
+    <string name="connection_error">Ошибка подключения \nПроверьте настройки сети</string>
+    <string name="refresh">Обновить</string>
+    <string name="type_of_plant">Вид растения</string>
+    <string name="plant_details">Детали растения</string>
+    <string name="_10_days">10 дней</string>
+    <string name="add_advice">Добавить совет</string>
+    <string name="no_advices_yet">Ещё нет советов</string>
+    <string name="water">Вода</string>
+    <string name="fertilizer">Удобрение</string>
+    <string name="edit">Изменить</string>
+
+    <string name="select_language">Выберите язык</string>
+    <string name="english">English</string>
+    <string name="russian">Русский</string>
+
+    <string name="translating">Перевод…</string>
+    <string name="today">Сегодня</string>
+
+</resources>
